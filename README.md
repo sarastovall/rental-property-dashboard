@@ -62,4 +62,4 @@ The dashboard includes:
 
 ## Notes
 
-This project uses fictional sample data created for portfolio and educational purposes.
+This project uses fictional sample data created for portfolio purposes.
